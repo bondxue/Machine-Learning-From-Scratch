@@ -20,8 +20,8 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 
 # Inspect data
 
-# print(X_train.shape)
-# print(X_train[0])
+print(X_train.shape)
+print(X_train[0])
 #
 # print(y_train.shape)
 # print(y_train)
