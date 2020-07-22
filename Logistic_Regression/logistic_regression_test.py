@@ -4,7 +4,7 @@ from sklearn import datasets
 # import matplotlib.pyplot as plt
 
 # from logistic_regression import LogisticRegression
-from regression.regression import LogisticRegression
+from Regression.regression import LogisticRegression
 
 
 # from regression import LogisticRegression

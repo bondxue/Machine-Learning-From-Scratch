@@ -4,7 +4,7 @@ from sklearn import datasets
 import matplotlib.pyplot as plt
 
 # from linear_regression import LinearRegression
-from regression.regression import LinearRegression
+from Regression.regression import LinearRegression
 
 
 def mean_squared_error(y_true, y_pred):
