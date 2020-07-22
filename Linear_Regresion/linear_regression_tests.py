@@ -3,7 +3,8 @@ from sklearn.model_selection import train_test_split
 from sklearn import datasets
 import matplotlib.pyplot as plt
 
-from linear_regression import LinearRegression
+# from linear_regression import LinearRegression
+from regression.regression import LinearRegression
 
 
 def mean_squared_error(y_true, y_pred):
