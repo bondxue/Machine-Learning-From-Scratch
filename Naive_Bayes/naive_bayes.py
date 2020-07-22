@@ -8,8 +8,5 @@ class NaiveBayes:
 
         # init mean, var, priors
 
-
-
-
     def predict(self, X):
         pass
